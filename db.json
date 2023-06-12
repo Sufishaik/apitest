@@ -1,11 +1,13 @@
-[
-    {
-        "imgs": "../src/assets/Rectangle 10.png",
-        "title": "Round neck cotton Tea",
-        "wishlist": "../src/assets/Vector (13).png",
-        "love2": "../src/assets/Vector (14).png",
-        "star": "5",
-        "id": "1",
+{
+
+  "users2" :  [ 
+        {
+            "imgs": "../src/assets/Rectangle 10.png",
+            "title": "Round neck cotton Tea",
+            "wishlist": "../src/assets/Vector (13).png",
+            "love2": "../src/assets/Vector (14).png",
+            "star": "5",
+            "id": "1",
         "rs": "599",
         "rs1": "549",
         "num": "(210)",
@@ -96,3 +98,4 @@
         "hm": "hm"
     }
 ]
+}
